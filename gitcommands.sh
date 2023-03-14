@@ -1,0 +1,1 @@
+echo "basic coomnds of git"
